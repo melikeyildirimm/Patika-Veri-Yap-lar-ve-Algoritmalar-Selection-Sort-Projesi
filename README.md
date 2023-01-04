@@ -1,4 +1,4 @@
-# Patika-Veri-Yap-lar-ve-Algoritmalar-Selection-Sort-Projesi
+# Patika-Veri-Yapilari-ve-Algoritmalar-Selection-Sort-Projesi
 
 [22,27,16,2,18,6] -> Insertion Sort
 
