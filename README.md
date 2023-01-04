@@ -1,5 +1,7 @@
 # Patika-Veri-Yapilari-ve-Algoritmalar-Selection-Sort-Projesi
 
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
+
 [22,27,16,2,18,6] -> Insertion Sort
 
 Yukarı verilen dizinin sort türüne göre aşamaları:
