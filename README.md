@@ -17,4 +17,3 @@ Yani son hali:
 Big-O gösterimi: O(n^2)
 
 Time Complexity: Dizi sıralandıktan sonra 18 sayısı en ortada olduğu için 18 sayısı Avarage Case'e girer.
-
